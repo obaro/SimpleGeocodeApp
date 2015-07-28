@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleGeocodeApp</string>
+    <string name="pause">Pause Location Updates</string>
+    <string name="resume">Resume Location Updates</string>
+
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="address">Address</string>
+    <string name="use_address">Use Address</string>
+    <string name="use_location">Use Latitude/Longitude</string>
+    <string name="get_address">Get Address</string>
+    <string name="fetch">Fetch</string>
+</resources>
